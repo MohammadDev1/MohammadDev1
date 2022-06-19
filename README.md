@@ -1,5 +1,5 @@
 - 👋 Hi, Im Mohammad
-- 👀 Im interested in C#
+- 👀 Im interested in C# and dotnet
 - 🌱 Im currently learning ML.Net
 
 <!---
